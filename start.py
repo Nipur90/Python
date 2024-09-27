@@ -1,5 +1,12 @@
 num=int(input("enter the No:"))
 if num%2==0:
-    print("even no")
+    print("Even no")
 else:
-    print("odd no")
+    print("Odd no")
+
+
+###################
+
+string=input("enter the word")
+str=string[::-1]
+print(str)
