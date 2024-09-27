@@ -10,3 +10,11 @@ else:
 string=input("enter the word")
 str=string[::-1]
 print(str)
+
+#########################
+num=int(input("enter the no"))
+if num**2=0:
+    print("square")
+elif num**3=0:
+    print("cube")
+    
