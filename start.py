@@ -13,8 +13,8 @@ print(str)
 
 #########################
 num=int(input("enter the no"))
-if num**2=0:
+if num**2:
     print("square")
-elif num**3=0:
+elif num**3:
     print("cube")
     
